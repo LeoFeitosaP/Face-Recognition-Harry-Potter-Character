@@ -1,4 +1,4 @@
-# Harry Potter Character Face Recognition 🧙♂️✨  
+# Harry Potter Character Face Recognition 🧙✨  
 
 A deep learning model that recognizes characters from the Harry Potter universe using facial recognition. Built with TensorFlow and OpenCV.
 
